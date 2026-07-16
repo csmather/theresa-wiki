@@ -28,4 +28,6 @@ Hand Scotty a PDF, a link, lecture notes, a rumor with a bibliography — anythi
 
 Everything ends up here. Searchable forever, or until the candles run out, whichever comes second.
 
+One more thing: I said I do the binding, and I do, but not alone. The staff have insisted on introductions — you'll find them in [[about|About the Library]].
+
 *Mind the threads. — A.*

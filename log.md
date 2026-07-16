@@ -11,3 +11,6 @@ First-person Robbins-adjacent register; persona and tone rules recorded in CLAUD
 ## [2026-07-15] ingest | 9 sources, every seed map grounded
 Ingested 9 raws (Freud Clark lectures, Clarke on bi-logic, Zupančič Crisis & Critique interview, Žižek How to Read Lacan, Dufourmantelle Libération interview, Capra New Facts of Life, Alexander A City is Not a Tree, Legge Tao Te Ching, Le Guin NBA speech) → 9 source pages, all 10 maps extended. The Žižek ingest birthed [[jacques-lacan]]. Lint clean: no broken links, no orphans; systems-thinking hub considered and deferred (only two members).
 
+## [2026-07-15] session | about page — Animal Collective staff introductions
+Created [[about|About the Library]] introducing Bunny, Monkey, and Piggy as Alobar's staff; linked from the welcome page. In-map quips and ledger cameos deliberately deferred until the agent layer.
+

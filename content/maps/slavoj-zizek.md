@@ -5,7 +5,7 @@ created: 2026-07-15
 updated: 2026-07-15
 ---
 
-Slovenian philosopher (b. 1949), the loudest export of the Ljubljana school ([[alenka-zupancic]], Mladen Dolar). Under the jokes, the machinery is consistent: Lacan's psychoanalysis plus Hegel plus Marx, aimed at one question — why do we keep choosing what harms us, individually and collectively?
+Slovenian philosopher (b. 1949), the loudest export of the Ljubljana school ([[alenka-zupancic]], Mladen Dolar). Under the jokes, the machinery is consistent: [[jacques-lacan|Lacan]]'s psychoanalysis plus Hegel plus Marx, aimed at one question — why do we keep choosing what harms us, individually and collectively?
 
 ## Ideology, upgraded
 
@@ -13,6 +13,13 @@ Slovenian philosopher (b. 1949), the loudest export of the Ljubljana school ([[a
 - Ideology lives in practice and fantasy, not opinions: in what we *do* (rituals, purchases, small daily compliances) and in the fantasies organizing our desire underneath whatever beliefs we'd disavow at dinner.
 - Signature teaching examples: canned laughter (the television enjoys on your behalf); the sunglasses in *They Live* — with the twist that seeing ideology is painful, which is why the film needs a six-minute fistfight to get them on.
 - *The Sublime Object of Ideology* (1989) is the founding book: symptom and enjoyment (jouissance) as political categories. We are libidinally attached to our chains — which is why critique alone frees no one. Same conceptual toolbox as [[alenka-zupancic|Zupančič]]'s work on the Real.
+
+## The Lacan toolbox, made teachable
+
+- *[[zizek-how-to-read-lacan|How to Read Lacan]]* (2006) is his most accessible book and the friendliest serious introduction to [[jacques-lacan]] in print — each chapter one concept, worked through film, ritual, and politics.
+- The **empty gesture**: the offer made to be refused ("you really shouldn't have") — symbolic life runs on choices that are obligatory but must be performed as free.
+- **Interpassivity**: canned laughter laughs *for* you, the prayer wheel prays *for* you — even enjoyment can be outsourced. (His formalization of the canned-laughter example above.)
+- The **superego injunction "Enjoy!"** — the modern command crueler than prohibition, since you can always be failing at it. A sharp lens on wellness culture.
 
 ## Why a social worker might care
 

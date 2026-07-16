@@ -9,11 +9,12 @@ Hub for the taoist cluster. Classical Chinese philosophy of the *tao* ("way"): t
 
 ## Core ideas (working set)
 
-- **Wu wei** — "non-action," badly named: not passivity but action that doesn't force. Effectiveness without strain; steering with the current.
-- **Water beats stone** — the soft and yielding outlast the hard and rigid; power that doesn't look like power. (Philosophical cousin in this wiki: [[anne-dufourmantelle]]'s gentleness — a rhyme, not a lineage.)
-- **The usefulness of emptiness** — the hub of the wheel, the hollow of the cup, the space in the room: what isn't there does the work.
-- **Complementary opposites** — yin and yang as mutually defining rather than warring; each color of the emblem holds a dot of the other.
-- The texts: the *Tao Te Ching* (attributed to Laozi, roughly 4th century BCE, authorship contested) and the *Zhuangzi* (parables and jokes — the butterfly dream, the tree too gnarled to be worth cutting down and therefore left to grow old).
+- **Wu wei** — "non-action," badly named: not passivity but action that doesn't force. Effectiveness without strain; steering with the current. Legge's sage "acts without doing," and the best rulers are barely known to exist (chs. 2, 17).
+- **Water beats stone** — "There is nothing in the world more soft and weak than water, and yet for attacking things that are firm and strong there is nothing that can take precedence of it" (ch. 78). Power that doesn't look like power. (Philosophical cousin in this wiki: [[anne-dufourmantelle]]'s gentleness — a rhyme, not a lineage.)
+- **The usefulness of emptiness** — thirty spokes, one empty hub; the vessel's hollow; the door and windows that make the room (ch. 11): what isn't there does the work.
+- **Complementary opposites** — yin and yang as mutually defining rather than warring; being and non-being, difficult and easy "give birth" to one another (ch. 2).
+- **Govern lightly** — ruling a great state "as we cook small fish" (ch. 60): minimal poking.
+- The texts: the *Tao Te Ching* (attributed to Laozi, roughly 4th century BCE, authorship contested; chapter references above follow [[legge-tao-te-ching|Legge's 1891 translation]], public domain) and the *Zhuangzi* (parables and jokes — the butterfly dream, the tree too gnarled to be worth cutting down and therefore left to grow old).
 
 ## What the Western reception drops
 

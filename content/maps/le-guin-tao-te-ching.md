@@ -24,6 +24,13 @@ Ursula K. Le Guin's 1997 English *rendition* (her word — she read no classical
 
 - The friendliest door into the [[taoism]] cluster — the literary sibling of [[fritjof-capra|Capra]]'s physics door and [[christopher-alexander|Alexander]]'s design door.
 - Her ethic of non-coercion and her "carrier bag" sensibility (the hero as gatherer rather than conqueror) rhyme closely with [[anne-dufourmantelle]]'s gentleness-as-power.
+- To see what her rendition *chose*, set it against [[legge-tao-te-ching|Legge's 1891 scholarly translation]] (public domain): Legge renders the text formally, for scholars and statesmen — exactly the register she stripped away.
+
+## The politics, compressed to six minutes
+
+- Her [[leguin-nba-speech|2014 National Book Awards speech]] is the Tao Te Ching's politics in her own late voice: hard times are coming, and we'll need "writers who can remember freedom... realists of a larger reality."
+- "We live in capitalism. Its power seems inescapable. So did the divine right of kings. Any human power can be resisted and changed by human beings."
+- And where that starts: "Resistance and change often begin in art, and very often in our art — the art of words." Non-coercive power, again: the water argument, aimed at publishing.
 
 ## Open questions
 
@@ -35,5 +42,5 @@ Ursula K. Le Guin's 1997 English *rendition* (her word — she read no classical
 - **Worlds of Ursula K. Le Guin** (2018, dir. Arwen Curry) — the documentary; she narrates her own late fame with perfect dryness.
 - **Music and Poetry of the Kesh** (1985, with Todd Barton) — the album she recorded as an artifact of the invented culture in *Always Coming Home*: anthropology of a people who don't exist yet.
 - **Fan Kuan, *Travelers Among Mountains and Streams*** (c. 1000) — the monumental Chinese landscape painting; the humans are tiny, and that's the point. The visual world the Tao Te Ching assumes.
-- **Her 2014 National Book Awards speech** (six minutes, easy to find) — "We live in capitalism. Its power seems inescapable. So did the divine right of kings." The Tao Te Ching's politics, delivered in an evening gown.
+- **The video of the 2014 NBA speech** (six minutes, easy to find) — the text is sourced above, but her delivery, in an evening gown to a hall of publishers, is half the art.
 - **The Lathe of Heaven** (the novel) — if fiction is the preferred door, skip straight to it.

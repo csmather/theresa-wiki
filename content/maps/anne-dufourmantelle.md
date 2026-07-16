@@ -10,8 +10,10 @@ French philosopher and practicing psychoanalyst (1964–2017) who built a body o
 ## In Praise of Risk (2011)
 
 - Risk is not recklessness; it's openness to being altered. Birth, love, speech, therapy, change — all risks in her sense: you cannot undergo them and remain who you were.
-- Her target: the fantasy of "zero risk." A society that promises total security delivers a smaller life, not a safer one — absolute safety is just death arriving politely.
-- Clinical resonance: every real step a client takes — leaving, staying, disclosing, hoping — is a risk. Therapy is a practice space for risk, and the clinician's job includes not foreclosing it in the name of safety-thinking.
+- Her target: the fantasy of "zero risk." A society that promises total security delivers a smaller life, not a safer one — absolute safety is just death arriving politely. In her words (from the [[dufourmantelle-liberation-interview|2015 Libération interview]]): "The idea of absolute security — 'zero risk' — is a fantasy... 'Security' generates fear more than it assuages it."
+- The line that survives her: "To live is to take risks by definition... To be entirely alive is a risk, and few people are."
+- The political mechanism, spelled out: "When we start from infantilization, we put ourselves under guardianship... a person with autonomy is less easy to influence than one governed by fear." Security discourse manufactures governable subjects.
+- Clinical resonance: every real step a client takes — leaving, staying, disclosing, hoping — is a risk. Therapy is a practice space for risk, and the clinician's job includes not foreclosing it in the name of safety-thinking. Her version: "True protection includes confidence in the capacity that someone does or doesn't have to experience their freedom." That's client self-determination, stated as philosophy.
 
 ## Power of Gentleness (2013)
 
@@ -21,6 +23,7 @@ French philosopher and practicing psychoanalyst (1964–2017) who built a body o
 ## Hospitality and the secret
 
 - *Of Hospitality* (1997, with Jacques Derrida — her invitation essay runs alongside his seminars): unconditional welcome versus the conditions every actual welcome imposes; the stranger at the threshold as the test of ethics. Direct purchase on immigration work, shelter work, and who gets welcomed on what terms.
+- She held the position without hedging: "It is our duty to open our borders, for the law of unconditional hospitality is the first humanizing rule of a civilization."
 - She also defended the secret — the right to interiority, slowness, and the unshared — against the culture of mandatory transparency. For clinicians: confidentiality isn't merely a rule; it's the protected dark where change can happen.
 
 ## Open questions

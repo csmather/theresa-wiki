@@ -25,6 +25,14 @@ Slovenian philosopher of the Ljubljana school of psychoanalysis — the group re
 - Refuses both biologism and pure social construction: sex marks a real deadlock, not a fact of nature or a menu of categories.
 - Clinically useful as an antidote to checkbox thinking: the expectation that sexuality should resolve into a stable, legible category is itself the illusion her book dismantles.
 
+## In her own words
+
+- From the [[zupancic-crisis-critique-interview|Crisis & Critique interview]] (2019), the best single tour of her project:
+- On theory vs. clinic: psychoanalytic concepts aren't lab results extracted from the consulting room — they "comprise" the clinical element in themselves. Working with them well takes "an ear for that bit of the real," which not every theorist *or* every practicing analyst has.
+- Her reversal of Althusser: not "ideology interpellates individuals into subjects" but "ideology interpellates subjects into individuals with this or that identity" — ideology works like identity politics, and the subject-as-crack is both where it grips and where it breaks.
+- On sexual difference vs. gender identity: sexual difference isn't a difference between identities but an impossibility that identity-formation keeps pushing outward — visible, she notes, as the "+" in LGBTQ+. Recognized identity alone protects no one; "woman" was always a recognized position and discrimination proceeded through its very definitions.
+- On #MeToo (directly relevant to social work's empowerment vocabulary): the movement's power lies in becoming *agents* of social change, not "joining the club" of victims petitioning institutions for protection — "leaving behind the identity of victimhood," connected to broader social solidarity.
+
 ## Open questions
 
 - Does her critique of "bio-morality" read as an attack on social work's ethics codes or as a corrective from within them?

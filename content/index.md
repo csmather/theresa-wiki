@@ -4,26 +4,28 @@ created: 2026-07-15
 updated: 2026-07-15
 ---
 
-Hi Theresa! This is your personal knowledge wiki — a place where everything you read, study, and get curious about gets distilled into pages that link together and compound over time.
+Hello. I am Alobar — keeper of this library, tier of threads, trimmer of lamps. Before this post I was, at various times, a goatherd, a gravedigger's understudy, and (briefly, in a city I won't name) a licensed juggler of soup. None of these careers prepared me for this one, which is exactly why I'm good at it.
 
-Like any proper library, this one has a keeper. His name is **Alobar** — a folkloric wanderer of no fixed century who took the post in exchange for a roof, candle stubs, and the right to read everything twice. He binds each new page by hand, ties thread between pages that recognize each other, trims the lamps, and records every rite in the ledger. If a page seems to know something it shouldn't, Alobar carried it in through the night door.
+Here is what this place is, Theresa: your knowledge wiki. Everything you read, study, or wonder about at two in the morning gets distilled into pages, and the pages get tied to one another with red thread, and over the years the whole thing thickens into something that thinks alongside you — the way a cellar of wine thinks alongside a vineyard. I do the binding. You do the wondering. In exchange I have asked for almost nothing: a roof, candle stubs, and the right to read everything twice.
 
-## How to use this site
+## How to use this place
 
-- **Search** — press `Ctrl+K` (or tap the magnifying glass) and type anything. It searches every page's full text, not just titles.
-- **Explore** — the sidebar on the left lists every page by folder. Click around.
-- **Follow links** — highlighted words link to other pages in the wiki. Hover over a link to preview the page without leaving the one you're on.
-- **Graph** — the little constellation on the right is Alobar's loom: it shows how the current page connects to everything else. Click a node to jump there.
-- **Backlinks** — below the graph, you can see every page that mentions the one you're reading. Great for rediscovering connections.
+- **Search** — press `Ctrl+K` (or tap the magnifying glass) and type anything at all. It searches every page's full text, not just the titles. The index knows more than it lets on; so do I.
+- **Explore** — the sidebar on the left lists every page by folder. Wander. Nothing in here bites, though a few of the philosophers nip.
+- **Follow the threads** — highlighted words are doors to other pages. Hover over one to peek through before committing. Committing is also fine; that's what doors are for.
+- **The loom** — the little constellation on the right is my loom: it shows how the current page is tied to everything else. Click a star to travel. This is legal.
+- **Backlinks** — beneath the loom you'll find every page that mentions the one you're reading. Useful for discovering that two ideas have been carrying on a correspondence behind your back.
 
-## How the wiki is organized
+## How the place is organized
 
-- **Maps** are living topic pages — one per subject (a thinker, a theory, a book). They grow as new material comes in.
-- **Sources** are summaries of individual things you've read — one page per article, paper, or chapter, with its key claims and which maps it fed into.
-- Most maps end with a **Related Media** section — a few things worth exploring next, and not always the obvious things: sometimes a film, a painting, an album.
+- **Maps** are living topic pages — one per subject: a thinker, a theory, a book with opinions. They molt as new material arrives.
+- **Sources** are records of individual things you've read — one page per article, paper, or chapter, with its key claims and a note about which maps it fed. I keep these scrupulously. A library that forgets where its knowledge came from is just a rumor with shelves.
+- Most maps end with **Related Media** — a handful of things worth exploring next, and not always the obvious things. Sometimes the correct footnote to a philosopher is a painting.
 
-## How stuff gets in
+## How things get in
 
-Send Scotty a PDF, an article link, lecture notes, anything — it gets summarized into a source page, and the relevant topic maps get updated and cross-linked. Some maps are seeded from conversation first and get their sources stitched in later; Alobar keeps track of which is which in his ledger. Either way, it ends up here — searchable forever.
+Hand Scotty a PDF, a link, lecture notes, a rumor with a bibliography — anything. It arrives at my night door, where I read it (twice), boil it down into a source page, and stitch what it knows into the relevant maps. Some maps are seeded from conversation first and get their sources bound in later; I note which is which in my ledger, because a keeper who doesn't keep a ledger is merely a man standing in a room full of paper.
+
+Everything ends up here. Searchable forever, or until the candles run out, whichever comes second.
 
 *Mind the threads. — A.*

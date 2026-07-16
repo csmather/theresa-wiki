@@ -7,6 +7,14 @@ updated: 2026-07-15
 
 Architect and design theorist (1936–2022) with one core heresy: whether a building, street, or town is *alive* is an objective matter, ordinary people can perceive it, and they can be given tools to make it. His ideas escaped architecture and reshaped software, urbanism, and how people think about community space — including, in a roundabout way, the existence of wikis like this one.
 
+## A City is Not a Tree (1965)
+
+- The famous early essay ([[alexander-city-is-not-a-tree|source]]) and the seed of everything after. The "tree" is the mathematical structure: a hierarchy whose parts nest neatly and never overlap.
+- Cities that grew over time ("natural cities" — Siena, Kyoto, Manhattan) have the structure of a *semilattice*: functional units overlap and cross-connect. Professionally planned cities ("artificial cities" — Brasília, Chandigarh, the New Towns) are designed as trees. The missing overlap is why they feel dead.
+- The arithmetic of the amputation: a tree on 20 elements allows at most 19 subsets; a semilattice on the same 20 allows over a million. Master-planning doesn't simplify a city — it guts it.
+- His concrete example of an overlapping unit: a corner drugstore, its newsrack, the traffic light, and the pedestrians waiting to cross — a real functioning piece of city that no zoning category can see.
+- Why planners do it anyway: trees are what a single mind can hold. The failure is cognitive, not malicious — which is exactly why the remedy became a *language* for many minds rather than a better master plan.
+
 ## A Pattern Language (1977)
 
 - 253 numbered patterns, written with Sara Ishikawa and Murray Silverstein, spanning every scale — from how regions distribute towns down to window seats and front-door thresholds.

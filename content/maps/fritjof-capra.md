@@ -17,7 +17,9 @@ Austrian-born physicist (b. 1939, Vienna) who left particle physics to spend fif
 
 - *The Web of Life* (1996) and *The Systems View of Life* (2014, with Pier Luigi Luisi) synthesize the systems account of biology: living systems are self-organizing networks that continuously remake themselves (Maturana and Varela's *autopoiesis*).
 - Santiago theory of cognition: cognition is the process of life itself — mind is not a thing but the activity of a living network. Even a cell "knows" in this thin but rigorous sense.
-- The shift he keeps pointing at, in every book: from objects to relationships, from quantities to qualities, from hierarchies to networks, from structure to process.
+- The shift he keeps pointing at, in every book: from objects to relationships, from quantities to qualities, from hierarchies to networks, from structure to process. His essay *[[capra-new-facts-of-life|The New Facts of Life]]* adds two more to the list: from parts to wholes, and from measuring to *mapping* — relationships can't be fully quantified, but they can be charted.
+- His compact definition of life from the same essay: metabolism — "the ceaseless flow of energy and matter through a network of chemical reactions" by which a living system continually remakes itself.
+- Five ecological principles he offers as the core of ecological literacy: waste cycles through food webs; matter circulates continuously; solar energy drives the cycles; diversity ensures resilience; life spreads by networking, not combat.
 
 ## Why social work should care
 

@@ -13,6 +13,13 @@ Founder of [[psychoanalysis]] (1856–1939). This map skips most of the biograph
 - Two kinds of thinking: rational, ordered *secondary process* sits on top of *primary process* — image-driven, timeless, contradiction-tolerant. ([[ignacio-matte-blanco]] later worked out primary process as a logic of its own.)
 - The models evolved: topographic (unconscious / preconscious / conscious) → structural (id / ego / superego). Later and darker: *Beyond the Pleasure Principle* (1920) introduces repetition compulsion and the death drive — the observation that people reliably repeat what hurts them. This late Freud is the one [[slavoj-zizek]] and [[alenka-zupancic]] build on.
 
+## The origin story, in his own words
+
+- The [[freud-five-lectures-clark|Five Lectures]] (Clark University, 1909 — his only American appearance) remain the best compact introduction: Freud narrating the discovery himself.
+- It starts with a patient he never treated: Josef Breuer's "Anna O.," whose symptoms dissolved when their forgotten origins were spoken aloud — the "talking cure" was her phrase. Freud's summary line: "hysterics suffer mainly from reminiscences."
+- The pivotal observation: patients *resist* remembering exactly what most needs remembering — and that resistance is the fingerprint of the force (repression) that buried the material. The obstacle is the map.
+- The lectures end not with liberation-of-desire but with **sublimation**: redirecting drive energy toward work, art, and connection. Freud was never the libertine his critics imagined.
+
 ## Clinical inventions that stuck
 
 - **Free association** — say whatever comes, unedited; the places where saying becomes hard are the map.

@@ -9,9 +9,9 @@ Hub for this wiki's psychoanalysis cluster. The tradition's founding bet, still 
 
 ## The cluster, mapped
 
-- [[sigmund-freud]] — the source: dynamic unconscious, transference, defense, repetition.
+- [[sigmund-freud]] — the source: dynamic unconscious, transference, defense, repetition. (His own origin story: the [[freud-five-lectures-clark|Clark lectures]].)
 - [[ignacio-matte-blanco]] — the formalist: the unconscious as a *logic* (bi-logic), emotion as infinity.
-- [[jacques-lacan]] — the hinge (no page yet): his "return to Freud" reads the unconscious as structured like a language, and the Ljubljana school builds directly on him.
+- [[jacques-lacan]] — the hinge: his "return to Freud" reads the unconscious as structured like a language, and the Ljubljana school builds directly on him.
 - [[alenka-zupancic]] and [[slavoj-zizek]] — the philosophers: psychoanalysis as a tool for thinking ethics, comedy, sexuality, and ideology, not only a therapy.
 - [[anne-dufourmantelle]] — the practicing analyst as philosopher: risk, gentleness, and the defended secret.
 
@@ -27,8 +27,8 @@ Hub for this wiki's psychoanalysis cluster. The tradition's founding bet, still 
 
 ## Open questions
 
-- A Lacan map is the obvious missing page — create it when the first source lands.
 - Where does attachment theory belong: inside this cluster, next to it, or as its successor?
+- The object-relations middle school (Klein, Winnicott, Bion) is the cluster's biggest remaining gap — and the branch most alive in actual clinical training.
 
 ## Related Media
 

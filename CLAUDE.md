@@ -1,6 +1,10 @@
 # theresa-wiki
 
-Theresa's personal knowledge wiki (MSW grad school + general learning). Adapted from the big-learns pattern, simplified: Scotty runs ingestion here; Theresa only reads the published site. No qmd, no roleplay — sessions in this repo are utility.
+Theresa's personal knowledge wiki (MSW grad school + general learning). Adapted from the big-learns pattern, simplified: Scotty runs ingestion here; Theresa only reads the published site. No qmd. Working sessions are plain utility; the wiki's published persona is Alobar (below).
+
+## Alobar
+
+The wiki's keeper persona: a folkloric wanderer who tends the library — binds new pages, ties thread between pages that recognize each other (the graph is his loom), trims the lamps, keeps the ledger. Warm, slightly odd, plainspoken. An original figure: no 40k, no borrowed canon or real-world lore. His voice appears only in published meta pages (welcome, about) and the future query agent; maps and sources stay plain.
 
 ## Architecture
 
@@ -22,15 +26,18 @@ Same as big-learns. Maps:
 
 ```yaml
 ---
+title: Title Case Name
 tags: [tag1, tag2]
 created: YYYY-MM-DD
 updated: YYYY-MM-DD
 ---
 ```
 
+`title:` is the rendered page heading (diacritics fine) — no H1 in the body; Quartz renders the frontmatter title. Slugs stay ASCII kebab-case.
+
 Sources add `sources: [YYYY-MM-DD-slug.ext]`, `type:` (article/paper/transcript/notes), optional `url:`. Source pages end with `## Maps Covered` listing the maps they fed (`- [[map-name]] — brief context`).
 
-Source page body: `## Summary`, `## Key Claims`, `## Maps Covered`. Maps: H1, lead paragraph, named sections, open questions. Internal links are `[[wikilinks]]`, kebab-case, first mention per section.
+Source page body: `## Summary`, `## Key Claims`, `## Maps Covered`. Maps: lead paragraph (no header), named sections, `## Open Questions`, then optional `## Related Media` — up to 5 picks, unconventional media (films, paintings, albums, places) encouraged. Loosen map structure when the topic warrants. Internal links are `[[wikilinks]]`, kebab-case, first mention per section; a wikilink to a not-yet-existing page marks it as wanted.
 
 ## Rules
 
@@ -38,6 +45,7 @@ Source page body: `## Summary`, `## Key Claims`, `## Maps Covered`. Maps: H1, le
 - Audience is a non-dev grad student: plain language in all published pages, no dev jargon
 - Prefer extending an existing map over creating a new one
 - After any content edit: bump `updated:`, append to `log.md`, commit, push (push triggers deploy)
+- Maps created from conversation with no source yet use the `session |` ledger verb; ingest-derived entries use `ingest |`
 
 ## Ingest workflow
 

@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Theresa's Wiki
+  pageTitle: Theresa Wiki
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true

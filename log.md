@@ -14,3 +14,6 @@ Ingested 9 raws (Freud Clark lectures, Clarke on bi-logic, Zupančič Crisis & C
 ## [2026-07-15] session | about page — Animal Collective staff introductions
 Created [[about|About the Library]] introducing Bunny, Monkey, and Piggy as Alobar's staff; linked from the welcome page. In-map quips and ledger cameos deliberately deferred until the agent layer.
 
+
+## [2026-07-16] session | deep search — client-side semantic search
+Added [[deep-search|Deep Search]]: build-time embeddings over contentIndex (scripts/build-search-index.mjs, MiniLM q8 via transformers.js), browser-side query embedding + cosine ranking, results grouped per page. Linked from the welcome page; deploy workflow builds the index after Quartz. Verified end-to-end in-browser incl. SPA navigation.

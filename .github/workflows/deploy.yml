@@ -44,6 +44,13 @@ jobs:
         run: npx quartz plugin install
       - name: Build Quartz
         run: npx quartz build
+      - name: Cache embedding model
+        uses: actions/cache@v5
+        with:
+          path: .cache/transformers
+          key: ${{ runner.os }}-transformers-all-MiniLM-L6-v2
+      - name: Build deep-search index
+        run: node scripts/build-search-index.mjs
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:

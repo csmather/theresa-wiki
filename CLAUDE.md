@@ -11,6 +11,7 @@ The wiki's keeper persona: a folkloric wanderer who tends the library — binds 
 - Quartz 5 static site, deployed to GitHub Pages via `.github/workflows/deploy.yml` on every push to `main`. Live at https://csmather.github.io/theresa-wiki
 - Wiki content lives in `content/` — everything under it gets published
 - `raw/` (repo root) is gitignored and local-only: source PDFs/clippings never enter the public repo. Summaries in `content/sources/` are the durable record
+- Deep Search (`content/deep-search.md`): client-side semantic search. CI builds `public/static/deepSearchIndex.json` via `scripts/build-search-index.mjs` after the Quartz build; the embedding model and transformers.js version in that script and in `deep-search.md` must stay identical. No manual step — regenerates on every deploy
 
 ## Structure
 

@@ -1,14 +1,14 @@
 ---
 title: Deep Search
 created: 2026-07-16
-updated: 2026-07-18
+updated: 2026-07-19
 ---
 
-The search bar in the toolbar belongs to Bunny: it matches your words exactly, the way she files them, and it has never once been wrong about a word. But sometimes you don't *have* the word — only the shape of a question. For that, there is this page. For that, there is the Contraption.
+The search bar in the toolbar belongs to Bunny: it matches your words exactly how she files them, and it has never once been wrong about a word. But sometimes you don't *have* the word — only the shape of one. For that, there is the Contraption.
 
-Monkey built it. It took him, by his account, a week, and the week was, in his words, "nothing." It is pneumatic, load-bearing, and fully notarized, and it is not so much *in* the library as the library is now, structurally, part of *it* — built into the building the way a church organ is built into a church: pipes through the walls, bellows under the floorboards, one repurposed bubble wand performing a function I have been assured is critical. You whisper a question into the tube — your own words, half-formed is fine ("why do opposites attract in the psyche?") — and somewhere in the walls, important machinery happens, and the pages that are *about* your question come back through the pipes, including pages that never use your words at all. I have asked Monkey how the machine knows what a question means, as opposed to what it says. He showed me the clipboard. There is nothing on the clipboard.
+Monkey built it — alone, at night, without permission: the three conditions under which, he says, all real engineering happens. It is not so much *in* the library as the library is now, structurally, part of *it* — built into the building the way a church organ is built into a church: pipes through the walls, bellows under the floorboards, one repurposed bubble wand performing a function I have been assured is critical. You whisper a question into the tube — your own words, half-formed is fine ("why do opposites attract in the psyche?") — and the works take it from there: the whisper is weighed, wrung out, held up to a strong light, and read for what it *meant* rather than what it said, and presently the pages that meant the same thing come rattling back through the pipes, smelling faintly of brass and banana, even the ones that share not one word with your question. I have asked Monkey what, precisely, happens between the whisper and the rattling. He showed me the clipboard. There is still nothing on the clipboard.
 
-For the record: the Contraption has passed every safety inspection it has ever been given. It has been given nine. All nine were conducted by Monkey, who also built it, contested his own findings before a review board consisting of himself, and won. Bunny insists I add two practical notes, and Bunny is right to insist: first, your browser must take delivery of the machine — a ~25 MB installation, once; after that it is cached and quick. Second, the entire apparatus operates inside your own machine. Nothing you whisper into the tube goes anywhere else. The pipes end where you are.
+For the record, Bunny insists I add two practical notes, and Bunny is right to insist: first, your browser must take delivery of the machine — a ~25 MB installation, once. Monkey will hand you some paperwork to sign (though I think he just wants your autograph). Second, the entire apparatus operates inside your own machine.
 
 <div id="deep-search-app">
   <form id="ds-form" style="display: flex; gap: 0.5rem; margin: 1rem 0;">

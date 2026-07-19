@@ -4,16 +4,16 @@ created: 2026-07-16
 updated: 2026-07-18
 ---
 
-The search bar in the toolbar belongs to Bunny: it matches your words exactly, the way she files them, and it has never once been wrong about a word. But sometimes you don't *have* the word — only the shape of a question. This page is for that, and it belongs to Piggy.
+The search bar in the toolbar belongs to Bunny: it matches your words exactly, the way she files them, and it has never once been wrong about a word. But sometimes you don't *have* the word — only the shape of a question. For that, there is this page. For that, there is the Contraption.
 
-Here is how it works, as best I can explain it without Monkey's diagrams (he has diagrams; they are of his lunch). Piggy has read every page in this library over my shoulder — twice — and what she remembers is not the words but the *scent* of the meaning underneath them. Ask a question in your own language ("why do opposites attract in the psyche?") and she will snuffle through the stacks and drag back whatever smells like your question, even pages that never use your words. Truffle-hunting, but for ideas.
+Monkey built it. It took him, by his account, a week, and the week was, in his words, "nothing." It is pneumatic, load-bearing, and fully notarized, and it is not so much *in* the library as the library is now, structurally, part of *it* — built into the building the way a church organ is built into a church: pipes through the walls, bellows under the floorboards, one repurposed bubble wand performing a function I have been assured is critical. You whisper a question into the tube — your own words, half-formed is fine ("why do opposites attract in the psyche?") — and somewhere in the walls, important machinery happens, and the pages that are *about* your question come back through the pipes, including pages that never use your words at all. I have asked Monkey how the machine knows what a question means, as opposed to what it says. He showed me the clipboard. There is nothing on the clipboard.
 
-Two practical notes, because Bunny insists on practical notes: your first search carries the snuffling-engine into your browser — a ~25 MB download, once; after that it's cached and quick. And the whole hunt happens inside your own machine — nothing you type leaves it. Piggy is shy. She doesn't send your questions anywhere.
+For the record: the Contraption has passed every safety inspection it has ever been given. It has been given nine. All nine were conducted by Monkey, who also built it, contested his own findings before a review board consisting of himself, and won. Bunny insists I add two practical notes, and Bunny is right to insist: first, your browser must take delivery of the machine — a ~25 MB installation, once; after that it is cached and quick. Second, the entire apparatus operates inside your own machine. Nothing you whisper into the tube goes anywhere else. The pipes end where you are.
 
 <div id="deep-search-app">
   <form id="ds-form" style="display: flex; gap: 0.5rem; margin: 1rem 0;">
-    <input id="ds-input" type="text" placeholder="Ask in your own words…" autocomplete="off" style="flex: 1; padding: 0.6rem 0.8rem; border: 1px solid var(--lightgray); border-radius: 6px; background: var(--light); color: var(--darkgray); font-size: 1rem;" />
-    <button id="ds-button" type="submit" style="padding: 0.6rem 1.1rem; border: none; border-radius: 6px; background: var(--secondary); color: var(--light); cursor: pointer; font-size: 1rem;">Snuffle</button>
+    <input id="ds-input" type="text" placeholder="Whisper into the tube…" autocomplete="off" style="flex: 1; padding: 0.6rem 0.8rem; border: 1px solid var(--lightgray); border-radius: 6px; background: var(--light); color: var(--darkgray); font-size: 1rem;" />
+    <button id="ds-button" type="submit" style="padding: 0.6rem 1.1rem; border: none; border-radius: 6px; background: var(--secondary); color: var(--light); cursor: pointer; font-size: 1rem;">Pull the Lever</button>
   </form>
   <p id="ds-status" style="color: var(--gray); font-style: italic; min-height: 1.4em;"></p>
   <div id="ds-results"></div>
@@ -40,7 +40,7 @@ function loadIndex() {
 
 function loadExtractor(status) {
   extractorPromise ??= (async () => {
-    status("Waking Piggy — the first visit downloads ~25 MB of snuffling-engine; she is a substantial pig…")
+    status("Taking delivery of the Contraption (~25 MB of pipework, once; Monkey is supervising from the rafters)…")
     const { pipeline } = await import(LIB)
     return pipeline("feature-extraction", MODEL, { dtype: "q8" })
   })()
@@ -49,7 +49,7 @@ function loadExtractor(status) {
 
 async function runSearch(query, status, results) {
   const [index, extractor] = await Promise.all([loadIndex(), loadExtractor(status)])
-  status("Snuffling through the stacks…")
+  status("Important machinery is happening in the walls…")
   const out = await extractor([`${query}`], { pooling: "mean", normalize: true })
   const q = out.data
   const byPage = new Map()
@@ -65,7 +65,7 @@ async function runSearch(query, status, results) {
     .slice(0, MAX_RESULTS)
   results.replaceChildren()
   if (ranked.length === 0) {
-    status("Piggy came back with an empty snout. Try other words — or hand Scotty a source on it, and we'll have it bound and scented within the week.")
+    status("The tube came back empty, with a faint apologetic whistle. Try other words — or hand Scotty a source on it, and Monkey will fit a new pipe within the week.")
     return
   }
   status("")
@@ -77,7 +77,7 @@ async function runSearch(query, status, results) {
     a.textContent = r.title
     a.style.cssText = "font-weight: 700; font-size: 1.05rem;"
     const pct = document.createElement("span")
-    pct.textContent = ` ${Math.round(r.score * 100)}% on-scent`
+    pct.textContent = ` ${Math.round(r.score * 100)}% certified`
     pct.style.cssText = "color: var(--gray); font-size: 0.85rem;"
     const snippet = document.createElement("p")
     snippet.textContent = r.text.length > 260 ? r.text.slice(0, 260) + "…" : r.text
@@ -106,7 +106,7 @@ function init() {
     try {
       await runSearch(query, status, results)
     } catch (err) {
-      status(`Something has jammed in the stacks — Monkey has been dispatched, which is its own problem. (${err.message})`)
+      status(`The Contraption has jammed. A safety citation has been issued, contested, and overturned. (${err.message})`)
     }
   })
 }
@@ -120,4 +120,4 @@ if (!window.__deepSearchNavHook) {
 init()
 </script>
 
-*She reads sideways, not literally — bring her your half-formed questions; those are her favorite kind. And if a result seems strange, remember: sometimes the correct answer to a question smells nothing like it. — A.*
+*He built it for you, by the way. He would want you to know that. He would also want you to know that it was "nothing," that you should ask it many questions, and that you should please not tap on the pipes between the hours of anything and anything else. — A.*

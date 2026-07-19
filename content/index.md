@@ -1,7 +1,7 @@
 ---
 title: Welcome
 created: 2026-07-15
-updated: 2026-07-16
+updated: 2026-07-18
 ---
 
 Hello. I am Alobar — keeper of this library, tier of threads, trimmer of lamps. Before this post I was, at various times, a goatherd, a gravedigger's understudy, and (briefly, in a city I won't name) a licensed juggler of soup. None of these careers prepared me for this one, which is exactly why I'm good at it.
@@ -10,8 +10,8 @@ Here is what this place is, Theresa: your knowledge wiki. Everything you read, s
 
 ## How to use this place
 
-- **Search** — press `Ctrl+K` (or tap the magnifying glass) and type anything at all. It searches every page's full text, not just the titles. The index knows more than it lets on; so do I.
-- **[[deep-search|Deep search]]** — for when you don't know the words, only the shape of the question. It finds pages by meaning rather than by matching letters. Ask it what you *mean*.
+- **Search** — press `Ctrl+K` (or tap the magnifying glass) and type anything at all. This is Bunny's catalog: it matches your words exactly, every page's full text, not just the titles. The index knows more than it lets on; so does she.
+- **[[deep-search|Deep search]]** — for when you don't know the words, only the shape of the question. Piggy snuffles out pages by meaning rather than by matching letters. Ask her what you *mean*.
 - **Explore** — the sidebar on the left lists every page by folder. Wander. Nothing in here bites, though a few of the philosophers nip.
 - **Follow the threads** — highlighted words are doors to other pages. Hover over one to peek through before committing. Committing is also fine; that's what doors are for.
 - **The loom** — the little constellation on the right is my loom: it shows how the current page is tied to everything else. Click a star to travel. This is legal.

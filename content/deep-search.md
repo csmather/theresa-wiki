@@ -1,15 +1,19 @@
 ---
 title: Deep Search
 created: 2026-07-16
-updated: 2026-07-16
+updated: 2026-07-18
 ---
 
-The search in the toolbar matches words. This one matches *meaning* — ask a question in your own words ("why do opposites attract in the psyche?") and I'll fetch the pages that are about it, even if they never use your words. The first search wakes a small reading-engine in your browser (a ~25 MB download, once; after that it's cached and quick). Nothing you type leaves your machine.
+The search bar in the toolbar belongs to Bunny: it matches your words exactly, the way she files them, and it has never once been wrong about a word. But sometimes you don't *have* the word — only the shape of a question. This page is for that, and it belongs to Piggy.
+
+Here is how it works, as best I can explain it without Monkey's diagrams (he has diagrams; they are of his lunch). Piggy has read every page in this library over my shoulder — twice — and what she remembers is not the words but the *scent* of the meaning underneath them. Ask a question in your own language ("why do opposites attract in the psyche?") and she will snuffle through the stacks and drag back whatever smells like your question, even pages that never use your words. Truffle-hunting, but for ideas.
+
+Two practical notes, because Bunny insists on practical notes: your first search carries the snuffling-engine into your browser — a ~25 MB download, once; after that it's cached and quick. And the whole hunt happens inside your own machine — nothing you type leaves it. Piggy is shy. She doesn't send your questions anywhere.
 
 <div id="deep-search-app">
   <form id="ds-form" style="display: flex; gap: 0.5rem; margin: 1rem 0;">
     <input id="ds-input" type="text" placeholder="Ask in your own words…" autocomplete="off" style="flex: 1; padding: 0.6rem 0.8rem; border: 1px solid var(--lightgray); border-radius: 6px; background: var(--light); color: var(--darkgray); font-size: 1rem;" />
-    <button id="ds-button" type="submit" style="padding: 0.6rem 1.1rem; border: none; border-radius: 6px; background: var(--secondary); color: var(--light); cursor: pointer; font-size: 1rem;">Search</button>
+    <button id="ds-button" type="submit" style="padding: 0.6rem 1.1rem; border: none; border-radius: 6px; background: var(--secondary); color: var(--light); cursor: pointer; font-size: 1rem;">Snuffle</button>
   </form>
   <p id="ds-status" style="color: var(--gray); font-style: italic; min-height: 1.4em;"></p>
   <div id="ds-results"></div>
@@ -36,7 +40,7 @@ function loadIndex() {
 
 function loadExtractor(status) {
   extractorPromise ??= (async () => {
-    status("Waking the reading-engine (first visit downloads ~25 MB)…")
+    status("Waking Piggy — the first visit downloads ~25 MB of snuffling-engine; she is a substantial pig…")
     const { pipeline } = await import(LIB)
     return pipeline("feature-extraction", MODEL, { dtype: "q8" })
   })()
@@ -45,7 +49,7 @@ function loadExtractor(status) {
 
 async function runSearch(query, status, results) {
   const [index, extractor] = await Promise.all([loadIndex(), loadExtractor(status)])
-  status("Reading the stacks…")
+  status("Snuffling through the stacks…")
   const out = await extractor([`${query}`], { pooling: "mean", normalize: true })
   const q = out.data
   const byPage = new Map()
@@ -61,7 +65,7 @@ async function runSearch(query, status, results) {
     .slice(0, MAX_RESULTS)
   results.replaceChildren()
   if (ranked.length === 0) {
-    status("Nothing in the stacks answers to that. Try other words — or hand Scotty a source on it.")
+    status("Piggy came back with an empty snout. Try other words — or hand Scotty a source on it, and we'll have it bound and scented within the week.")
     return
   }
   status("")
@@ -102,7 +106,7 @@ function init() {
     try {
       await runSearch(query, status, results)
     } catch (err) {
-      status(`Something jammed in the stacks: ${err.message}`)
+      status(`Something has jammed in the stacks — Monkey has been dispatched, which is its own problem. (${err.message})`)
     }
   })
 }
@@ -116,4 +120,4 @@ if (!window.__deepSearchNavHook) {
 init()
 </script>
 
-*The engine reads sideways, not literally — trust it with half-formed questions. — A.*
+*She reads sideways, not literally — bring her your half-formed questions; those are her favorite kind. And if a result seems strange, remember: sometimes the correct answer to a question smells nothing like it. — A.*

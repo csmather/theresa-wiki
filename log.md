@@ -17,3 +17,7 @@ Created [[about|About the Library]] introducing Bunny, Monkey, and Piggy as Alob
 
 ## [2026-07-16] session | deep search — client-side semantic search
 Added [[deep-search|Deep Search]]: build-time embeddings over contentIndex (scripts/build-search-index.mjs, MiniLM q8 via transformers.js), browser-side query embedding + cosine ranking, results grouped per page. Linked from the welcome page; deploy workflow builds the index after Quartz. Verified end-to-end in-browser incl. SPA navigation.
+
+## [2026-07-18] session | deep search RP pass
+Dressed the [[deep-search|Deep Search]] page in staff voice: Piggy runs the snuffling-engine, Bunny keeps the toolbar search, Monkey handles jams. Welcome-page bullets updated to match.
+
